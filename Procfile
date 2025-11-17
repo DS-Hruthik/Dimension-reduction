@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn New_PCA_flaskapp:app
